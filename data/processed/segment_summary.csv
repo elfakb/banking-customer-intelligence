@@ -1,0 +1,5 @@
+segment,customers,customer_share_pct,total_volume_12m,total_fee_12m,fee_share_pct,avg_fee_per_customer
+High Value,259,17.27,66673096.67,145448.09,57.8,561.58
+Medium Value,387,25.8,31253609.48,63230.07,25.13,163.39
+Low Value,647,43.13,16793931.6,32189.41,12.79,49.75
+Inactive,207,13.8,4680532.11,10788.33,4.29,52.12

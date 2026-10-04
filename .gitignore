@@ -1,0 +1,14 @@
+# Secrets
+.env
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Generated raw data (can be recreated with generate_data.py)
+data/raw/*.csv
